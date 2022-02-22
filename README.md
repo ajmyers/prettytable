@@ -1,3 +1,9 @@
+# Hold On!
+
+This is a repackaging of jazzband/prettytabl to be included as a Sublime Text Package control dependency.
+
+The latest prettytable is available at the upstream repo: https://github.com/jazzband/prettytable
+
 # PrettyTable
 
 [![Jazzband](https://jazzband.co/static/img/badge.svg)](https://jazzband.co/)
